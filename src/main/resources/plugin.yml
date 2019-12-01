@@ -1,0 +1,13 @@
+name: cSkyBlock
+version: 1.0
+main: com.climpy.SkyBlockC
+author: ClimpyX
+commands:
+  menu:
+  scoreboard:
+  staffchat:
+  mutechat:
+  resettime:
+  money:
+  setmoney:
+  settime:
